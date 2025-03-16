@@ -17,8 +17,6 @@ Cada projeto demonstra diferentes aspectos do desenvolvimento web com HTML, CSS 
 
 - HTML5
 - CSS3
-- (Possivelmente) JavaScript
-- (Possivelmente) PHP (referenciado no `projeto-login`, mas sem arquivos inclusos)
 
 ## 📚 Como Utilizar
 
