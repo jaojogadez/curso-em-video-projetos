@@ -9,9 +9,17 @@ Cada projeto demonstra diferentes aspectos do desenvolvimento web com HTML, CSS 
 ### 🔮 Lista de Projetos
 
 - **projeto-android**: Site sobre a história do mascote do Android.
+  ![Projeto  - Android](https://github.com/user-attachments/assets/437c0edc-b90f-4e6b-b9a4-27d6779c63c0)
+
 - **projeto-cordel**: Apresentação visual de um cordel moderno.
+  ![Projeto  - Cordel](https://github.com/user-attachments/assets/fdca6466-b958-4cda-8683-098e0d85fa40)
+
 - **projeto-login**: Interface de uma tela de login.
+  ![Projeto  - Login](https://github.com/user-attachments/assets/9bddd6f8-7cee-4c58-983d-9c32e3048ab2)
+
 - **projeto-social**: Agregador de perfis de redes sociais.
+  ![Projeto  - Social](https://github.com/user-attachments/assets/9f4fd858-0f3b-49d2-816d-c9a29ba09bcc)
+
 
 ## 🛠️ Tecnologias Utilizadas
 
